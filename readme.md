@@ -1,5 +1,6 @@
 # Cohack Meetup #0 - AI HACK
 
+
 #### Instruction
 
 1. Be sure to have python 3.6. Later version are not supported by TF, especially when using Conv layers
@@ -9,3 +10,6 @@
 
 #### Keyword
 Pitourch, InceptionV3, ImageNet, Keras
+
+#### Thank you 
+Fabien Martin 
